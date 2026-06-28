@@ -1,6 +1,6 @@
 <h1 align="center"><b>Sebastian Chipana </b>
 
-***Sobre mí:***
+&nbsp;***Sobre mí:***
 
 Soy estudiante de Ciencias de la Computación actualmente sin un área especifica debido a mi reciente ingreso pero interesado en diversas áreas
 
