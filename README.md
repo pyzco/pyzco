@@ -1,6 +1,6 @@
-<h1 align="center"><b>Sebastian Chipana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Sebastian Chipana </b>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí:***
+***Sobre mí:***
 
 Soy estudiante de Ciencias de la Computación actualmente sin un área especifica debido a mi reciente ingreso pero interesado en diversas áreas
 
